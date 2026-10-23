@@ -3,7 +3,7 @@ Version: 1.0.0
 Section: devel
 Priority: optional
 Architecture: all
-Maintainer: EnvLens contributors <envlens@example.invalid>
+Maintainer: Steven McSorley <smcsorl@gmail.com>
 Depends: python3 (>= 3.10), python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1 (>= 1.5)
 Description: Compare terminal and IDE command environments
  Local GTK desktop tool for finding PATH, variable and working-directory mismatches.
