@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=EnvLens
+Comment=Compare terminal, IDE and command environments
+Exec=envlens-gui
+Icon=io.github.stevenmcsorley.EnvLens
+Terminal=false
+Categories=Development;
+Keywords=environment;PATH;debug;IDE;terminal;
+StartupNotify=true
